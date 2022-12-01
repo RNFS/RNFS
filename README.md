@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rdwan Faris
-- 👀 I’m interested in ... Python, Django, Flask, FastAPI, Web Scraping, Automation, Scripting, web development
+- 👀 I’m interested in ... Python, Django, Flask, FastAPI, Web Scraping, Automation, Scripting, web development, C is my favourite language
 - 🌱 I’m currently ... bulding projects using python, django and MySQL, MongoDB, TypesScript, React 
 - 💞️ I’m looking to ... collaborate on Python open source projects
 - 📫 How to reach me ... https://www.linkedin.com/in/radwan-faris-64091b201/
