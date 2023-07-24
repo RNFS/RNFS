@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Radwan 
-- 👀 I’m interested in ... Python, Django, Flask, FastAPI, Web Scraping, Automation, Scripting, web development, MySQL, Linux and  C is my favourite language
+- 👀 I’m interested in ... Backend Development, Web Scraping, Bot Development, Automation, Python, Django, Flask, FastAPI, MySQL, Linux and  C is my favourite language
 - 💞️ I’m looking to ... collaborate on Python open source projects
  - 📫 How to reach me. My Email address: radwanfaris13@gmail.com 
 <!---
