@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Radwan 
-- 👀 I’m interested in ... Backend Development, Web Scraping, Bot Development, Automation, Python, Django, Flask, FastAPI, MySQL, Linux and  C is my favourite language
-- 💞️ I’m looking to ... collaborate on Python open source projects
+- 👀 I am a python deveopler, interested in Backend Development, Web Scraping, AI Automation and integration, Bot Development, Automation, FastAPI, PostgerSQL, GCP, AWS,HuggingFace
+  I’m looking to ... collaborate on Python open source projects
  - 📫 How to reach me. My Email address: radwanfaris13@gmail.com 
 <!---
 RNFS/RNFS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
